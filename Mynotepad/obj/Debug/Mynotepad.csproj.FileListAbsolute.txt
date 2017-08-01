@@ -1,0 +1,9 @@
+c:\users\chris\documents\visual studio 2017\Projects\Mynotepad\Mynotepad\obj\Debug\Mynotepad.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2017\Projects\Mynotepad\Mynotepad\obj\Debug\Mynotepad.Form1.resources
+c:\users\chris\documents\visual studio 2017\Projects\Mynotepad\Mynotepad\obj\Debug\Mynotepad.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2017\Projects\Mynotepad\Mynotepad\obj\Debug\Mynotepad.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2017\Projects\Mynotepad\Mynotepad\bin\Debug\Mynotepad.exe.config
+c:\users\chris\documents\visual studio 2017\Projects\Mynotepad\Mynotepad\bin\Debug\Mynotepad.exe
+c:\users\chris\documents\visual studio 2017\Projects\Mynotepad\Mynotepad\bin\Debug\Mynotepad.pdb
+c:\users\chris\documents\visual studio 2017\Projects\Mynotepad\Mynotepad\obj\Debug\Mynotepad.exe
+c:\users\chris\documents\visual studio 2017\Projects\Mynotepad\Mynotepad\obj\Debug\Mynotepad.pdb
